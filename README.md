@@ -9,4 +9,4 @@ A simple HTTP server in C (Might expand on this later)
 `./a.out`
 
 enjoy!!!!
-```
+
